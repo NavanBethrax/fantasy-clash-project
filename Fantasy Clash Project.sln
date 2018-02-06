@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Fantasy Clash Project", "Fantasy Clash Project\Fantasy Clash Project.vbproj", "{35E1F992-C07D-4CBD-A3F7-40FC90837ACF}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Fantasy Clash Project Debug", "Fantasy Clash Project Debug\Fantasy Clash Project Debug.vbproj", "{2D1A7172-2EB8-4F75-8F18-AED432514372}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35E1F992-C07D-4CBD-A3F7-40FC90837ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E1F992-C07D-4CBD-A3F7-40FC90837ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E1F992-C07D-4CBD-A3F7-40FC90837ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E1F992-C07D-4CBD-A3F7-40FC90837ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D1A7172-2EB8-4F75-8F18-AED432514372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D1A7172-2EB8-4F75-8F18-AED432514372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D1A7172-2EB8-4F75-8F18-AED432514372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D1A7172-2EB8-4F75-8F18-AED432514372}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
